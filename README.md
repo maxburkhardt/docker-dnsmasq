@@ -11,3 +11,5 @@ The configuration is all handled on the command line (no wrapper scripts here). 
 As this is a very barebones entrypoint with just enough to run in the foreground, there is no logging enabled by default. To send logging to stdout you can add `--log-facility=-` as an option.
 
 [dnsmasq]: http://www.thekelleys.org.uk/dnsmasq/doc.html
+
+Last updated: 2020-11-1
